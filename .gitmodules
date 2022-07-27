@@ -1,0 +1,3 @@
+[submodule "lib/PollingConditions"]
+	path = lib/PollingConditions
+	url = https://github.com/m-romanowski/PollingConditions
